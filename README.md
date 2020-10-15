@@ -2,7 +2,7 @@
 
 hAPPy is an app build during the NLW#3 promoted by rocketseat.
 
-## Pourpouse
+## Purpose
 
 Aiming to practice and improve skills of fullstack development by using:
 
